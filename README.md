@@ -224,22 +224,10 @@ DATABASE_URL=sqlite:///data/sample_manufacturing.db
 
 ---
 
-## Roadmap (V2)
-
-- [ ] Connect to production database (PostgreSQL/MySQL/MSSQL)
-- [ ] MCP Server integration for Claude Desktop
-- [ ] Milvus + sentence-transformers for semantic schema search at scale
-- [ ] Multi-turn conversation memory
-- [ ] PDF/Excel report export
-- [ ] User authentication + role-based access
-- [ ] Larger LLM option (Llama 3.1 70B) for complex multi-table joins
-
----
-
 ## Author
 
 **Varaun Gandhi**
 - M.S. AI Systems Management, Carnegie Mellon University (Dec 2025)
-- varaun.gandhi@gmail.com
+- vbgandhi@andrew.cmu.edu
 
 Built for Vegam Solutions — AI Intime platform validation.
