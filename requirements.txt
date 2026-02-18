@@ -1,0 +1,10 @@
+streamlit
+langgraph
+langchain
+langchain-core
+plotly
+pandas
+sqlalchemy
+scikit-learn
+requests
+python-dotenv
