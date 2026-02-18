@@ -8,14 +8,7 @@ Plant managers type questions. The system writes SQL, runs it, computes KPIs wit
 
 ---
 
-## Demo
-
-### Yield Trend Analysis
-![Yield Trend](screenshots/yield_trend.png)
-
-### Night Shift Report with Step Breakdown
-![Shift Report](screenshots/shift_report_summary.png)
-![Step Breakdown](screenshots/step_breakdown_chart.png)
+> Video Demo [Link](https://andrewcmu-my.sharepoint.com/:v:/g/personal/vbgandhi_andrew_cmu_edu/IQBKfvT6Mx4zSLM9C186ESK5Aa1NoKLwxw0m7sDlUq3SpKc?e=EddvfA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ---
 
