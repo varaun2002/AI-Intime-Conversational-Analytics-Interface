@@ -113,7 +113,7 @@ Total queries:     20
 Data returned:     19/20  (95%)
 KPIs computed:     19/20  (95%)
 Summaries valid:   19/20  (95%)
-Charts generated:  8/20   (correct — only generated when relevant)
+Charts generated:  8/8   (correct — only generated when relevant)
 Avg response time: ~18s   (local Ollama on MacBook Air)
 ```
 
@@ -152,11 +152,7 @@ ai-intime/
 │   │   ├── chart_generator.py     # Deterministic Plotly charts + LLM fallback
 │   │   └── assembler.py           # Final report builder
 │   ├── llm/
-│   │   └── provider.py            # Ollama / Anthropic abstraction
-│   ├── mcp/
-│   │   └── server.py              # MCP tool exposure (Flask)
-│   └── utils/
-│       └── error_handler.py       # Retry logic, exceptions
+│       └── provider.py            # Ollama / Anthropic abstraction
 ├── ui/
 │   └── app.py                     # Streamlit chat + report UI
 ├── data/
@@ -175,7 +171,7 @@ ai-intime/
 ## Setup
 
 ### Prerequisites
-- Python 3.10+
+- Python 3.10 - 3.12
 - [Ollama](https://ollama.ai) installed and running
 - DeepSeek Coder V2 model pulled
 
@@ -183,7 +179,7 @@ ai-intime/
 
 ```bash
 # Clone
-git clone https://github.com/YOUR_USERNAME/ai-intime.git
+git clone https://github.com/varaun2002/ai-intime.git
 cd ai-intime
 
 # Create virtual environment
